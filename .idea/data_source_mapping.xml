@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/01_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/02_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/03_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/04_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/05_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/06_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/07_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/08_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+    <file url="file://$PROJECT_DIR$/09_product.sql" value="b1d8a46d-76d1-472f-a584-9d563cbb3b66" />
+  </component>
+</project>
